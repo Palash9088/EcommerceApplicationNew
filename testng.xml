@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite" parallel="">
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/Palash/IdeaProjects/EcommerceApplication/src/test/java/testscripts/VerifyTechPandaTest.java">
+        <classes>
+            <class name="testscripts.VerifyTechPandaTest">
+                <methods>
+                    <include name="verifySortTest"/>
+                    <exclude name="verifyRegistration"></exclude>
+                </methods>
+            </class>
+        </classes>
+    </test>
+</suite>

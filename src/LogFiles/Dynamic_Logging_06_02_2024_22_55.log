@@ -1,0 +1,16 @@
+06 February 2024 22:55:51  0 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:60] - User able to open the browser
+06 February 2024 22:55:56  4465 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:62] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:55:56  4475 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:206] - User is trying to get page title
+06 February 2024 22:55:57  5497 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:140] - User is trying to get the element
+06 February 2024 22:55:57  5504 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:196] - User is trying to get Element text
+06 February 2024 22:55:57  5521 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:140] - User is trying to get the element
+06 February 2024 22:55:59  7744 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:228] - User able to click on Elements
+06 February 2024 22:55:59  7759 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:140] - User is trying to get the element
+06 February 2024 22:55:59  7764 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:196] - User is trying to get Element text
+06 February 2024 22:55:59  7764 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:206] - User is trying to get page title
+06 February 2024 22:55:59  7779 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:140] - User is trying to get the element
+06 February 2024 22:55:59  7845 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:228] - User able to click on Elements
+06 February 2024 22:55:59  7855 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:140] - User is trying to get the element
+06 February 2024 22:56:00  8521 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:73] - User is able to select the element
+06 February 2024 22:56:00  8521 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:98] - User is trying to get the list of WebElement
+06 February 2024 22:56:00  8540 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:108] - User is trying to get the list of String

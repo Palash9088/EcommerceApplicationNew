@@ -1,0 +1,110 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1//EN" "https://www.w3.org/TR/xhtml11/DTD/xhtml11.dtd">
+<html xmlns="https://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"/>
+<title>TestNG Report</title>
+<style type="text/css">table {margin-bottom:10px;border-collapse:collapse;empty-cells:show}th,td {border:1px solid #009;padding:.25em .5em}th {vertical-align:bottom}td {vertical-align:top}table a {font-weight:bold}.stripe td {background-color: #E6EBF9}.num {text-align:right}.passedodd td {background-color: #3F3}.passedeven td {background-color: #0A0}.skippedodd td {background-color: #DDD}.skippedeven td {background-color: #CCC}.failedodd td,.attn {background-color: #F33}.failedeven td,.stripe .attn {background-color: #D00}.stacktrace {white-space:pre;font-family:monospace}.totop {font-size:85%;text-align:center;border-bottom:2px solid #000}.invisible {display:none}</style>
+</head>
+<body>
+<table>
+<tr><th>Test</th><th># Passed</th><th># Skipped</th><th># Retried</th><th># Failed</th><th>Time (ms)</th><th>Included Groups</th><th>Excluded Groups</th></tr>
+<tr><th colspan="8">Surefire suite</th></tr>
+<tr><td><a href="#t0">Surefire test</a></td><td class="num">9</td><td class="num">0</td><td class="num">0</td><td class="num attn">6</td><td class="num">238,235</td><td></td><td></td></tr>
+</table>
+<table id='summary'><thead><tr><th>Class</th><th>Method</th><th>Start</th><th>Time (ms)</th></tr></thead><tbody><tr><th colspan="4">Surefire suite</th></tr></tbody><tbody id="t0"><tr><th colspan="4">Surefire test &#8212; failed</th></tr><tr class="failedeven"><td rowspan="5">TestScripts.VerifyTechPandaTest</td><td><a href="#m0">verifyCart</a></td><td rowspan="1">1707238586136</td><td rowspan="1">12076</td></tr><tr class="failedeven"><td><a href="#m1">verifyDiscountCoupon</a></td><td rowspan="1">1707238603940</td><td rowspan="1">4785</td></tr><tr class="failedeven"><td><a href="#m2">verifyPdfFileSaving</a></td><td rowspan="1">1707238614700</td><td rowspan="1">13783</td></tr><tr class="failedeven"><td><a href="#m3">verifyRegistration</a></td><td rowspan="1">1707238697511</td><td rowspan="1">13899</td></tr><tr class="failedeven"><td><a href="#m4">verifyReorderOfProduct</a></td><td rowspan="1">1707238646437</td><td rowspan="1">13108</td></tr><tr class="failedodd"><td rowspan="1">TestScriptsBackend.VerifyBackendTest</td><td><a href="#m5">VerifyInvoiceCanBePrinted</a></td><td rowspan="1">1707238799248</td><td rowspan="1">10648</td></tr><tr><th colspan="4">Surefire test &#8212; passed</th></tr><tr class="passedeven"><td rowspan="5">TestScripts.VerifyTechPandaTest</td><td><a href="#m6">verifyPriceOfProduct</a></td><td rowspan="1">1707238634185</td><td rowspan="1">5000</td></tr><tr class="passedeven"><td><a href="#m7">verifySearchFunctionality</a></td><td rowspan="1">1707238665306</td><td rowspan="1">5828</td></tr><tr class="passedeven"><td><a href="#m8">verifySortTest</a></td><td rowspan="1">1707238676785</td><td rowspan="1">2959</td></tr><tr class="passedeven"><td><a href="#m9">verifyTwoProducts</a></td><td rowspan="1">1707238685507</td><td rowspan="1">6341</td></tr><tr class="passedeven"><td><a href="#m10">verifyUserIsAbleToPurchase</a></td><td rowspan="1">1707238717236</td><td rowspan="1">13091</td></tr><tr class="passedodd"><td rowspan="1">TestScriptsBackend.VerifyDisabledFieldsTest</td><td><a href="#m11">verifyDisabledFields</a></td><td rowspan="1">1707238787042</td><td rowspan="1">7505</td></tr><tr class="passedeven"><td rowspan="1">TestScriptsBackend.VerifyInvoiceDateSortTest</td><td><a href="#m12">verifyInvoiceSort</a></td><td rowspan="1">1707238773371</td><td rowspan="1">8626</td></tr><tr class="passedodd"><td rowspan="2">TestScriptsBackend.VerifyProductReviewTest</td><td><a href="#m13">doReview</a></td><td rowspan="1">1707238730329</td><td rowspan="1">15169</td></tr><tr class="passedodd"><td><a href="#m14">reviewOnWebsite</a></td><td rowspan="1">1707238745499</td><td rowspan="1">23491</td></tr></tbody>
+</table>
+<h2>Surefire test</h2><h3 id="m0">TestScripts.VerifyTechPandaTest#verifyCart</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //li[@class=&apos;item last&apos;]/div/h2/a[text()=&apos;%s&apos;]//following::div[@class=&apos;actions&apos;]/button[@title=&apos;Add to Cart&apos;] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.3&apos;, java.version: &apos;21.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.139, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: /var/folders/9y/26jvmzyn5l1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50493}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50493/devtoo..., se:cdpVersion: 121.0.6167.139, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: a83cba8f5cfd81fa2fe1d1fd0f0fc67b
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at Base.PredefinedActions.getElement(PredefinedActions.java:138)
+	at Base.PredefinedActions.clickOnElement(PredefinedActions.java:225)
+	at Pages.MobilePage.addToCartBtn(MobilePage.java:58)
+	at TestScripts.VerifyTechPandaTest.verifyCart(VerifyTechPandaTest.java:61)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m1">TestScripts.VerifyTechPandaTest#verifyDiscountCoupon</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">java.lang.AssertionError: Discount does not get applied expected [500.0] but found [475.0]
+	at TestScripts.VerifyTechPandaTest.verifyDiscountCoupon(VerifyTechPandaTest.java:251)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m2">TestScripts.VerifyTechPandaTest#verifyPdfFileSaving</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.xpath: //td[text()=&apos;100017735&apos;]//following::td[@class=&apos;a-center view last&apos;]/span/a[text()=&apos;View Order&apos;] (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.3&apos;, java.version: &apos;21.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.139, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: /var/folders/9y/26jvmzyn5l1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50722}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50722/devtoo..., se:cdpVersion: 121.0.6167.139, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 5e9f021b2e503d6416fe39cdc1f076cb
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at Base.PredefinedActions.getElement(PredefinedActions.java:138)
+	at Base.PredefinedActions.clickOnElement(PredefinedActions.java:225)
+	at Pages.AccountDashboardPage.clickOnViewOrder(AccountDashboardPage.java:58)
+	at TestScripts.VerifyTechPandaTest.verifyPdfFileSaving(VerifyTechPandaTest.java:190)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m3">TestScripts.VerifyTechPandaTest#verifyRegistration</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: li[class=&apos;success-msg&apos;]&gt;ul&gt;li&gt;span (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.3&apos;, java.version: &apos;21.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.139, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: /var/folders/9y/26jvmzyn5l1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:51364}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:51364/devtoo..., se:cdpVersion: 121.0.6167.139, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: 73a9cfbf20583f9037175239ed0ba49e
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at Base.PredefinedActions.getElement(PredefinedActions.java:138)
+	at Pages.AccountDashboardPage.getSuccessMsg(AccountDashboardPage.java:29)
+	at TestScripts.VerifyTechPandaTest.verifyRegistration(VerifyTechPandaTest.java:114)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m4">TestScripts.VerifyTechPandaTest#verifyReorderOfProduct</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.TimeoutException: Expected condition failed: waiting for visibility of element located by By.cssSelector: .nobr&gt;a:nth-of-type(2) (tried for 10 second(s) with 500 milliseconds interval)
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.3&apos;, java.version: &apos;21.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.139, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: /var/folders/9y/26jvmzyn5l1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:50946}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:50946/devtoo..., se:cdpVersion: 121.0.6167.139, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Session ID: adfb8415ba55d4bbc1367e750facf2c3
+	at org.openqa.selenium.support.ui.WebDriverWait.timeoutException(WebDriverWait.java:84)
+	at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:228)
+	at Base.PredefinedActions.getElement(PredefinedActions.java:138)
+	at Base.PredefinedActions.clickOnElement(PredefinedActions.java:225)
+	at Pages.AccountDashboardPage.clickOnReorder(AccountDashboardPage.java:84)
+	at TestScripts.VerifyTechPandaTest.verifyReorderOfProduct(VerifyTechPandaTest.java:212)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+... Removed 30 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m5">TestScriptsBackend.VerifyBackendTest#VerifyInvoiceCanBePrinted</h3><table class="result"><tr><th>Exception</th></tr><tr><td><div class="stacktrace">org.openqa.selenium.StaleElementReferenceException: stale element reference: stale element not found
+  (Session info: chrome=121.0.6167.139)
+For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Build info: version: &apos;4.17.0&apos;, revision: &apos;e52b1be057*&apos;
+System info: os.name: &apos;Mac OS X&apos;, os.arch: &apos;aarch64&apos;, os.version: &apos;14.3&apos;, java.version: &apos;21.0.1&apos;
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Command: [ea0564f0d3d564e5e7ee8ecaedd40483, getElementTagName {id=4B5A7708230FEC45BBC50CD3969DDE2D_element_6017}]
+Capabilities {acceptInsecureCerts: false, browserName: chrome, browserVersion: 121.0.6167.139, chrome: {chromedriverVersion: 121.0.6167.85 (3f98d690ad7e..., userDataDir: /var/folders/9y/26jvmzyn5l1...}, fedcm:accounts: true, goog:chromeOptions: {debuggerAddress: localhost:52132}, networkConnectionEnabled: false, pageLoadStrategy: normal, platformName: mac, proxy: Proxy(), se:cdp: ws://localhost:52132/devtoo..., se:cdpVersion: 121.0.6167.139, setWindowRect: true, strictFileInteractability: false, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}, unhandledPromptBehavior: dismiss and notify, webauthn:extension:credBlob: true, webauthn:extension:largeBlob: true, webauthn:extension:minPinLength: true, webauthn:extension:prf: true, webauthn:virtualAuthenticators: true}
+Element: [[ChromeDriver: chrome on mac (ea0564f0d3d564e5e7ee8ecaedd40483)] -&gt; css selector: #sales_order_grid_massaction-select]
+Session ID: ea0564f0d3d564e5e7ee8ecaedd40483
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:185)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:134)
+	at org.openqa.selenium.remote.codec.w3c.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:51)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:190)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.invokeExecute(DriverCommandExecutor.java:216)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:174)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:519)
+	at org.openqa.selenium.remote.RemoteWebElement.execute(RemoteWebElement.java:223)
+	at org.openqa.selenium.remote.RemoteWebElement.getTagName(RemoteWebElement.java:134)
+	at org.openqa.selenium.support.ui.Select.&lt;init&gt;(Select.java:43)
+	at Base.PredefinedActions.selectElementByVisibleText(PredefinedActions.java:78)
+	at Pages.Backend.BackendDashboardPage.selectAction(BackendDashboardPage.java:49)
+	at TestScriptsBackend.VerifyBackendTest.VerifyInvoiceCanBePrinted(VerifyBackendTest.java:38)
+	at java.base/java.util.ArrayList.forEach(ArrayList.java:1596)
+... Removed 33 stack frames</div></td></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m6">TestScripts.VerifyTechPandaTest#verifyPriceOfProduct</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m7">TestScripts.VerifyTechPandaTest#verifySearchFunctionality</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m8">TestScripts.VerifyTechPandaTest#verifySortTest</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m9">TestScripts.VerifyTechPandaTest#verifyTwoProducts</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m10">TestScripts.VerifyTechPandaTest#verifyUserIsAbleToPurchase</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m11">TestScriptsBackend.VerifyDisabledFieldsTest#verifyDisabledFields</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m12">TestScriptsBackend.VerifyInvoiceDateSortTest#verifyInvoiceSort</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m13">TestScriptsBackend.VerifyProductReviewTest#doReview</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+<h3 id="m14">TestScriptsBackend.VerifyProductReviewTest#reviewOnWebsite</h3><table class="result"><tr><th class="invisible"/></tr></table><p class="totop"><a href="#summary">back to summary</a></p>
+</body>
+</html>

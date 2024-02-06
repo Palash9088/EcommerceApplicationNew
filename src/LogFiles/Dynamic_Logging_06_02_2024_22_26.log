@@ -1,0 +1,263 @@
+06 February 2024 22:26:20  0 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:26:26  5704 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:26:26  5753 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:27  7502 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:26:39  19449 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:26:43  23519 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:26:43  23534 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:45  25260 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:26:45  25271 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:47  26845 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:26:47  26856 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:47  26935 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:26:47  26946 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:48  28258 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:26:48  28268 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:48  28275 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:26:48  28284 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:48  28287 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:26:48  28298 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:48  28301 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:26:48  28302 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:250] - Actual price should be is 475.0, Actual Price is 500.0
+06 February 2024 22:26:50  29917 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:26:54  34279 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:26:54  34291 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:56  35960 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:26:56  35972 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:56  36051 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:26:56  36061 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:56  36090 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:26:56  36103 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:57  37343 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:26:57  37355 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:26:58  37889 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:10  49651 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:27:14  53763 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:27:14  53822 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:16  56377 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:16  56389 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:16  56395 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:27:16  56395 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:46] - Actual Price in Mobile list Page $100.00
+06 February 2024 22:27:16  56405 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:19  58671 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:19  58760 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:19  58764 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:27:19  58764 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:50] - Expected Price in Mobile Detail Page $100.00
+06 February 2024 22:27:20  60401 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:27:26  66015 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:27:26  66027 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:27  66939 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:27  66950 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:27  67031 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:27:27  67042 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:27  67080 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:27:27  67096 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:28  68411 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:28  68420 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:29  68963 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:41  80717 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:27:45  84885 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:27:45  84899 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:47  86979 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:47  86990 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:47  87011 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:263] - User is able to clear the given element
+06 February 2024 22:27:47  87025 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:47  87103 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:27:47  87114 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:47  87125 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:263] - User is able to clear the given element
+06 February 2024 22:27:47  87128 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:47  87156 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:27:47  87162 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:49  88768 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:49  88769 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:99] - User is trying to get the list of WebElement
+06 February 2024 22:27:49  88784 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:109] - User is trying to get the list of String
+06 February 2024 22:27:49  88785 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:99] - User is trying to get the list of WebElement
+06 February 2024 22:27:49  88799 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:109] - User is trying to get the list of String
+06 February 2024 22:27:49  88799 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:263] - {SONY XPERIA=$100.00, SAMSUNG GALAXY=$130.00}
+06 February 2024 22:27:49  88808 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:49  89432 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:49  89450 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:49  89461 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:263] - User is able to clear the given element
+06 February 2024 22:27:49  89468 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:49  89488 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:27:49  89497 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:49  89507 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:263] - User is able to clear the given element
+06 February 2024 22:27:49  89512 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:49  89574 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:27:50  89672 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:51  90683 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:51  90684 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:99] - User is trying to get the list of WebElement
+06 February 2024 22:27:51  90697 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:109] - User is trying to get the list of String
+06 February 2024 22:27:51  90697 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:99] - User is trying to get the list of WebElement
+06 February 2024 22:27:51  90713 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:109] - User is trying to get the list of String
+06 February 2024 22:27:51  90713 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:268] - {IPHONE=$500.00, LG LCD=$615.00, SAMSUNG LCD=$700.00}
+06 February 2024 22:27:52  92196 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:27:56  96363 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:27:56  96364 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:207] - User is trying to get page title
+06 February 2024 22:27:56  96379 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:56  96385 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:27:56  96396 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:59  98613 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:59  98626 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:59  98630 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:27:59  98630 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:207] - User is trying to get page title
+06 February 2024 22:27:59  98642 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:59  98712 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:27:59  98720 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:27:59  99305 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:74] - User is able to select the element
+06 February 2024 22:27:59  99305 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:99] - User is trying to get the list of WebElement
+06 February 2024 22:27:59  99322 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:109] - User is trying to get the list of String
+06 February 2024 22:28:01  100933 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:28:05  105085 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:28:05  105102 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:08  107612 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:08  107625 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:09  108674 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:09  108684 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:09  109544 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:09  109553 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:10  109766 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:11  111337 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:11  111343 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:28:11  111343 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:86] - COMPARE PRODUCTS
+06 February 2024 22:28:11  111351 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:11  111355 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:28:11  111355 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:89] - SONY XPERIA
+06 February 2024 22:28:11  111363 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:11  111367 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:28:11  111367 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:92] - IPHONE
+06 February 2024 22:28:11  111424 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:292] - User Closed the browser
+06 February 2024 22:28:13  112915 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:28:17  117089 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:28:17  117106 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:19  118949 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:19  118971 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:20  119638 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:20  119652 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:20  119727 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:20  119736 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:20  119756 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:20  119768 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:20  119792 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:20  119802 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:20  119851 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:20  119885 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:20  119912 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:20  119922 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:21  120812 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:33  132598 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:28:37  136813 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/
+06 February 2024 22:28:37  136829 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:39  138611 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:39  138621 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:39  138714 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:39  138725 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:39  138748 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:39  138763 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:40  140026 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:40  140037 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:41  140723 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:41  140733 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:42  142225 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:42  142234 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:42  142252 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:80] - User is able to select the element
+06 February 2024 22:28:42  142263 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:42  142288 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:80] - User is able to select the element
+06 February 2024 22:28:42  142299 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:42  142321 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:42  142337 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:44  143598 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:44  143608 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:44  143629 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:44  143638 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:45  144627 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:45  144637 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:45  144644 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:28:45  144653 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:45  144656 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:28:45  144666 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:45  144669 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:28:45  144678 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:46  146380 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:46  146395 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:46  146417 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:46  146427 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:46  146447 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:46  146456 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:46  146481 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:80] - User is able to select the element
+06 February 2024 22:28:46  146490 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:46  146512 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:46  146522 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:46  146537 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:80] - User is able to select the element
+06 February 2024 22:28:47  146638 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:47  146672 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:28:47  146681 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:47  146704 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:48  147738 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:48  147759 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:48  148276 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:48  148301 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:48  148312 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:48  148332 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:49  148849 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:49  148873 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:50  149889 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:50  149894 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:28:50  149903 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:50  149906 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:28:50  149906 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:169] - 100022253
+06 February 2024 22:28:50  149906 [main] [INFO] TestScripts.VerifyTechPandaTest [VerifyTechPandaTest.java:172] - Time Elapsed 13
+06 February 2024 22:28:51  151464 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:28:57  157120 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/
+06 February 2024 22:28:57  157134 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:28:59  159030 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:28:59  159039 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:03  162953 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:03  162964 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:04  163613 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:04  163623 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:04  163647 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:04  163656 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:04  163736 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:29:04  163798 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:04  163909 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:29:04  163926 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:04  163948 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:29:04  163959 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:05  165060 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:05  165070 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:05  165077 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
+06 February 2024 22:29:07  166649 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:61] - User able to open the browser
+06 February 2024 22:29:09  169282 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:63] - User able to open the http://live.techpanda.org/index.php/backendlogin
+06 February 2024 22:29:09  169296 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:09  169375 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:29:09  169395 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:09  169431 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:236] - User able to enter the text
+06 February 2024 22:29:09  169442 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:16  175885 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:16  175897 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:16  175942 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:16  175952 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:16  175971 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:16  175980 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:16  175999 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:16  176007 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:16  176027 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:16  176035 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:17  177476 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:17  177488 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:19  178804 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:19  178814 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:19  178825 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:20  180433 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:20  180460 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:80] - User is able to select the element
+06 February 2024 22:29:20  180468 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:22  182298 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:25  184801 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:26  185882 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:26  185892 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:28  188163 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:28  188243 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:28  188436 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:229] - User able to click on Elements
+06 February 2024 22:29:28  188563 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:141] - User is trying to get the element
+06 February 2024 22:29:28  188569 [main] [TRACE] Base.PredefinedActions [PredefinedActions.java:197] - User is trying to get Element text
